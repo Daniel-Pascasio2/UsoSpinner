@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UsoSpinner</string>
+    <string-array name="edificios_utec">
+        <item>Benito Juarez</item>
+        <item>Simon Bolivar</item>
+        <item>Tomas Jefferson</item>
+        <item>Giuseppe Garibaldi</item>
+        <item>Francisco Morazan</item>
+    </string-array>
+
+</resources>
