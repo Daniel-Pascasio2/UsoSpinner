@@ -57,15 +57,13 @@
             android:layout_height="wrap_content"
             android:text="KEVIN ALEXANDER VASQUEZ CHAVEZ"
             android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HOLA SOY EL NINIOOO"
+            android:textStyle="bold" />
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="HOLA SOY EL NINIOOO"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="256dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
