@@ -55,8 +55,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="KEVIN ALEXANDER VASQUEZ CHAVEZ"
-            android:textAlignment="center" />
+            android:text="PASCA" />
 
         <TextView
             android:id="@+id/textView3"
@@ -64,6 +63,11 @@
             android:layout_height="wrap_content"
             android:text="HOLA SOY EL NINIOOO"
             android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KEVIN ALEXANDER VASQUEZ CHAVEZ"
+            android:textAlignment="center" />
     </LinearLayout>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
