@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:layout_width="409dp"
-        android:layout_height="172dp"
+        android:layout_height="189dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -52,7 +52,13 @@
             android:text="TextView" />
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PASCA" />
+
+        <TextView
+            android:id="@+id/textView6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="KEVIN ALEXANDER VASQUEZ CHAVEZ"
